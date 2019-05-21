@@ -1,0 +1,9 @@
+*~
+.~lock*
+.ipynb_checkpoints
+__pycache__/
+#*#
+*pyc
+*credentials.json
+gdrive-account.json
+token.pickle
