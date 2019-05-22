@@ -12,8 +12,7 @@ On the server:
 
 ```sh
 dokku apps:create openimaging-web
-dokku buildpacks:add openimaging-web heroku-buildpack-static
-
+dokku buildpacks:add openimaging-web https://github.com/heroku/heroku-buildpack-static
 ```
 
 Locally:
